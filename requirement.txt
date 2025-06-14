@@ -1,5 +1,7 @@
 streamlit
+prophet
 pandas
 numpy
-Prophet
-matplotlib.pyplot 
+matplotlib
+scikit-learn
+
