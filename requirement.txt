@@ -1,7 +1,6 @@
 streamlit
-prophet
+prophet==1.1.7
 pandas
 numpy
 matplotlib
 scikit-learn
-
